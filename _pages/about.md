@@ -20,3 +20,8 @@ permalink: /about/
 	where we come in. We spend all our time staying on top of security,
 	and we bring our expertise, services and solutions to you.
 </p>
+<p>
+	We stand ready to work for you, remotely or on site. We offer cyber-security
+	services at competitive rates. We understand small business because we are
+	a small business.
+</p>
