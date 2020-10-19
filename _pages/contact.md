@@ -5,10 +5,13 @@ permalink: /contact/
 
 ## Contact us
 
+Send us your e-mail address and one of our security professionals will
+get back to you to begin the process of securing your company against 
+cyber-threats.
 <div class="row py-4">
     <div class="col-md-12">
     <div class="well well-sm">
-        <form class="form-horizontal" action="#" method="post">
+        <form class="form-horizontal" action="https://formspree.io/f/info@salientsecurity.ca" method="post">
         <fieldset>
         <!-- Name input-->
         <div class="form-group">
@@ -19,18 +22,18 @@ permalink: /contact/
         </div>
         <!-- Email input-->
         <div class="form-group">
-            <label class="col-md-3 control-label" for="email">Your E-mail</label>
+            <label class="col-md-3 control-label" for="email">E-mail</label>
             <div class="col-md-9">
-            <input id="email" name="email" type="text" placeholder="Your email" class="form-control">
+            <input id="email" name="_replyto" type="text" placeholder="Your email" class="form-control">
             </div>
+						<input type="text" name="_gotcha" style="display:none" />
         </div>
-        <!-- Message body -->
-        <div class="form-group">
-            <label class="col-md-3 control-label" for="message">Your message</label>
-            <div class="col-md-9">
-            <textarea class="form-control" id="message" name="message" placeholder="Please enter your message here..." rows="5"></textarea>
-            </div>
-        </div>
+				<div class="form-group">
+					<label class="col-md-3 control-label" for="message">Message</label>
+					<div class="col-md-9">
+					<textarea name="message" placeholder="Phone number" class="form-control"></textarea>
+					</div>
+				</div>
         <!-- Form actions -->
         <div class="form-group">
             <div class="col-md-12">
