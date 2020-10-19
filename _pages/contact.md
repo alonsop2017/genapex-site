@@ -11,7 +11,7 @@ cyber-threats.
 <div class="row py-4">
     <div class="col-md-12">
     <div class="well well-sm">
-        <form class="form-horizontal" action="https://formspree.io/f/info@salientsecurity.ca" method="post">
+        <form class="form-horizontal" id="formaction" method="post">
         <fieldset>
         <!-- Name input-->
         <div class="form-group">
@@ -27,6 +27,7 @@ cyber-threats.
             <input id="email" name="_replyto" type="text" placeholder="Your email" class="form-control">
             </div>
 						<input type="text" name="_gotcha" style="display:none" />
+						<input type="hidden" name="_next" value="/thanks/" />
         </div>
 				<div class="form-group">
 					<label class="col-md-3 control-label" for="message">Message</label>
@@ -42,6 +43,10 @@ cyber-threats.
         </div>
         </fieldset>
         </form>
+				<script>
+					var contactForm = document.getElementById('formaction');
+					contactForm.setAttribute('action', 'https://formspree.io/f/' + 'info' + '@' + 'salientsecurity' + '.' + 'ca');
+				</script>
     </div>
     </div>
 </div>
