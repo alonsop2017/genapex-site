@@ -1,8 +1,11 @@
 - title: About
-  link: /about/
+  link: "/about/"
 
 - title: Services
   link: "/services/"
+
+- title: Tools
+  link: "/tools/"
 
 - title: Contact
   link: "/contact/"
