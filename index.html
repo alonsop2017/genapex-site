@@ -37,7 +37,7 @@ layout: default
 	real. According to FBI data, the average ransomware demand is over $100,000. 
 	No business today can afford to ignore cyber security.
 </p>
-    <a class="btn btn-primary btn-lg" href="#">Call to Action &raquo;</a>
+    <a class="btn btn-primary btn-lg" href="#">Am I Prepared? &raquo;</a>
 
   </div>
   {% include sidebar.html %}
@@ -45,50 +45,21 @@ layout: default
 <!-- /.row -->
 
 <div class="row">
+	{% for card in site.data.cards %}
   <div class="col-md-4 mb-5">
     <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="http://placeholder.pics/svg/400x300/3cb371-3cb371/3cb371-3cb371" alt="" />
+      <img class="card-img-top" src="assets/img/{{ card.image }}" alt="" width="320" height="180" />
       <div class="card-body">
-        <h4 class="card-title">Card title</h4>
+        <h4 class="card-title">{{ card.title }}</h4>
         <p class="card-text">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente
-          esse necessitatibus neque sequi doloribus.
+					{% include {{ card.text }}.md %}
         </p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Find Out More!</a>
+        <a href="{{ card.link }}" class="btn btn-primary"> Stay safe!</a>
       </div>
     </div>
   </div>
-  <div class="col-md-4 mb-5">
-    <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="http://placeholder.pics/svg/400x300/3cb371-3cb371/3cb371-3cb371" alt="" />
-      <div class="card-body">
-        <h4 class="card-title">Card title</h4>
-        <p class="card-text">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente
-          esse necessitatibus neque sequi doloribus totam ut praesentium aut.
-        </p>
-      </div>
-      <div class="card-footer">
-        <a href="#" class="btn btn-primary">Find Out More!</a>
-      </div>
-    </div>
-  </div>
-  <div class="col-md-4 mb-5">
-    <div class="card border-0 shadow h-100">
-      <img class="card-img-top" src="http://placeholder.pics/svg/400x300/3cb371-3cb371/3cb371-3cb371" alt="" />
-      <div class="card-body">
-        <h4 class="card-title">Card title</h4>
-        <p class="card-text">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente
-          esse necessitatibus neque.
-        </p>
-      </div>
-      <div class="card-footer">
-        <a href="#" class="btn btn-primary">Find Out More!</a>
-      </div>
-    </div>
-  </div>
+	{% endfor %}
 </div>
 <!-- /.row -->
