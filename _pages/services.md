@@ -3,7 +3,7 @@ layout: default
 permalink: /services/
 ---
 
-## Typical Solution tasks
+## Typical Solution Tasks
 
 <p>
 Our solutions integrate people, process and technology. This may include informing staff and managers about security risks and required behaviour, deploying selected security tools and software, and implementing security techniques and practices.

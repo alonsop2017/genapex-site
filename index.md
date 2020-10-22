@@ -4,6 +4,7 @@ layout: default
 
 <div class="row">
   <div class="col-md-8 mb-5">
+  <h2>Welcome</h2>
 	<b> Salient Security Services is here to help. </b>
 	<p>
 	Our mission is to enable 
@@ -16,7 +17,7 @@ layout: default
 	Computer services and data files are at great risk. The number of 
 	security breaches is skyrocketing. The cost to recover from a security 
 	event is now reported to range from $40,000 for a minor incident, to 
-	over ten million dollars for a severe ransom situation. Several 
+	millions of dollars for a severe ransom situation. Several 
 	large enterprises have even been forced into bankruptcy following 
 	a major cybersecurity attack.</p>
 

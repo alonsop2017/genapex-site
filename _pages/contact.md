@@ -25,9 +25,10 @@ cyber-threats.
             <label class="col-md-3 control-label" for="email">E-mail</label>
             <div class="col-md-9">
             <input id="email" name="_replyto" type="text" placeholder="Your email" class="form-control">
+  				  <input type="text" name="_gotcha" style="display:none" />
+  				  <input type="hidden" name="_next" value="{{ site.url }}/thanks/" />
+  				  <input type="hidden" name="_subject" value="Contact form submission" />
             </div>
-						<input type="text" name="_gotcha" style="display:none" />
-						<input type="hidden" name="_next" value="/thanks/" />
         </div>
 				<div class="form-group">
 					<label class="col-md-3 control-label" for="message">Message</label>

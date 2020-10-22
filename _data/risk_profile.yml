@@ -1,0 +1,225 @@
+- tag: customers
+  question: "How many customers does your entity serve"
+  options: {1: "&lt; 20k", 5: "20k - 100k", 10: "&gt; 100k"}
+  context: "Total number of residential and Commercial & Industrial customers"
+
+- tag: employees
+  question: "How many employees / subcontractors in total does your entity have on staff"
+  options: {1: "&lt; 50", 5: "50 - 200", 10: "&gt; 200"}
+  context: "Total employees and the average number of subcontractors at any time"
+
+- tag: remote
+  question: "How many employees / subcontractors in total work remotely"
+  options: {1: "&lt; 50", 3: "50 - 200", 5: "&gt 200"}
+  context: "This includes anyone working from home or remote offices, and accesses utility networks remotely (e.g. using a VPN or similar connection)"
+
+- tag: contiguous
+  question: "Does your entity have a contiguous service territory"
+  options: {0: "Yes", 5: "No"}
+  context: "Answer 'no' If the LDCs service territory is geographically diverse and contains remote locations away from major city centers"
+
+- tag: municipal
+  question: Is your entity connected physically or logically to your municipal network
+  options: {0: "No", 3: "Yes"}
+  context: This refers to computer connections to your municipal networks / offices
+
+- tag: operational
+  question: Are your IT and Operational Technology (OT) environments directly connected
+  options: {0: "No", 3: "Yes"}
+  context: Directly connected refers to some path of connectivity between the two environments
+
+- tag: affiliates
+  question: Is your entity connected physically or logically to one of more of your Affiliates
+  options: {0: "No", 3: "Yes"}
+  context: This refers to any form of computer connections with the LDC's Affiliates
+
+- tag: credit
+  question: Does your entity process credit card transactions or pre-authorized bank payments
+  options: {0: "Yes or no, No on site data", 3: "Yes - On site client data"}
+  context: This refers to accepting any method of account payment that is not by cheque or cash
+
+- tag: id
+  question: Does your entity collect driver's license, passport or social insurance number information from customers
+  options: {0: "No", 3: "Yes"}
+  context: Answer 'yes' if any of these types of information is taken at account opening or at any other time
+
+- tag: third_party
+  question: Does your entity provide your customers' data to any third party vendor
+  options: {0: "No", 3: "Yes"}
+  context: This could include AMI data, energy usage data, etc.
+
+- tag: emp_devices
+  question: Do your subcontractors use their own devices (mobile phones, tablets, PCs) for work purposes connected to your networks / applications
+  options: {0: "No", 3: "Yes"}
+  context: This refers to connecting with LDC applications from employee's own devices
+
+- tag: sub_devices
+  question: Do your subcontractors use their own devices (mobile phones, tablets, PCs) for work purposes connected to your networks / applications
+  options: {0: "No", 3: "Yes"}
+  context: This refers to connecting with LDC applications from subcontractor's own devices
+
+- tag: usb
+  question: Does your entity allow USBs to be inserted into computing devices
+  options: {0: "No", 3: "Yes"}
+  context: This refers to computing devices of any type
+
+- tag: n_third_party
+  question: How many third parties have access to your systems
+  options: {1: "&lt; 10", 3: "10 to 50", 5: "&gt; 50"}
+  context: Third parties include third party vendors, service providers, etc.
+
+- tag: outsource
+  question: Does your entity outsource any IT or OT services, including cloud computing
+  options: {0: "No", 5: "Yes"}
+  context: This refers to any application that is outsourced
+
+- tag: scada
+  question: Does your entity have a SCADA System/ Distribution Management System
+  options: {0: "No", 5: "Yes"}
+  context: This refers to the head end control systems
+
+- tag: hmi
+  question: Does your entity have one or more SCADA HMI systems
+  options: {0: "No", 5: "Yes"}
+  context: This refers to the distributed control systems (e.g. in substations)
+
+- tag: scada_shared
+  question: Does your entity have any SCADA points that are shared with another entity
+  options: {0: "No", 5: "Yes"}
+  context: This would include any shared points between the transmission provider, generators, and LDCs
+
+- tag: smart_meter
+  question: Does your entity have a smart meter / AMI system
+  options: {0: "No", 3: "Yes"}
+  context: This refers to automated meter systems
+
+- tag: separate_meter
+  question: Does your entity provide metering connections separate from your AMI system for Commercial & Industrial customers
+  options: {0: "No", 3: "Yes"}
+  context: This refers to separate wholesale metering arrangements
+
+- tag: dist_auto
+  question: Does your entity have Distribution Automation technology
+  options: {0: "No", 3: "Yes"}
+  context: This refers to automated technology (e.g. re-closers / breaker control) deployed within the service territory
+
+- tag: smart_energy
+  question: Does your entity provide smart energy technology for your customers
+  options: {0: "No", 3: "Yes"}
+  context: This refers to devices at customer sites that communicate usage information to the utility such as smart thermostats, Home Area Networks, etc.
+
+- tag: host
+  question: Does your entity provide any computing-based services for another party? (e.g. billing, SCADA, MDM)
+  options: {0: "No", 3: "Yes"}
+  context: This refers to cloud based / virtual services that you provide for other entities
+
+- tag: n_subs
+  question: How many Distribution Substations does your entity have
+  options: {0: "0", 3: "1 to 10", 5: "10 to 50", 10: "&gt; 50"}
+  context: The total number of Distribution Substations that you own and operate
+
+- tag: subs_auto
+  question: Does your entity have Substation Automation technology
+  options: {0: "No", 3: "Yes"}
+  context: This refers to advanced automation in the substation
+
+- tag: n_trans
+  question: How many Transformer Stations does your entity own
+  options: {0: "0", 3: "1-3", 5: "4-7", 10: "&gt; 8"}
+  context: The total number of Transformer Stations that you own and operate
+
+- tag: outage
+  question: Does your entity have an Outage Management System
+  options: {0: "No", 3: "Yes"}
+  context: This is any form of automated outage management
+
+- tag: gis
+  question: Does your entity have a Geographical Information System
+  options: {0: "No", 3: "Yes"}
+  context: This is any form of automated geographical information systems
+
+- tag: fd_remote
+  question: Are your operational field devices administered remotely
+  options: {0: "No", 3: "Yes"}
+  context: This includes substation equipment, breakers, relays, etc.
+
+- tag: iccp
+  question: Does your entity have ICCP connections with the IESO or your transmission provider
+  options: {0: "No", 5: "Yes"}
+  context: This refers to ICCP connections between any other entity and your entity
+
+- tag: rtu
+  question: Does your entity have RTU connections with the IESO or your transmission provider
+  options: {0: "No", 5: "Yes"}
+  context: This refers to any RTUs that you own that other entities have access to
+
+- tag: field_mobile
+  question: Does your entity have field personnel that use mobile computing devices
+  options: {0: "No", 3: "Yes"}
+  context: This includes field technicians with smart meter tools, diagnostic tools, etc.
+
+- tag: wireless_scada
+  question: Does your entity use wireless communications for networks or SCADA
+  options: {0: "No", 3: "Yes"}
+  context: Wireless includes all forms of wireless including proprietary, WiMAX, microwave, etc. Any wireless access is a potential external access point to systems
+
+- tag: der
+  question: Does your entity have Distributed Energy Resources / Micro Grids connected to your systems
+  options: {0: "No", 3: "Yes"}
+  context: This refers to any solar / wind / renewable systems and / or full Micro Grid implementations in your service territory that you own and operate
+
+- tag: gen_cap
+  question: What is your generation capacity as a % of load
+  options: {0: "0%", 3: "&lt 25%", 5: "25% - 50%", 10: "&gt; 50%"}
+  context: This is your total generation sources that you own and operate as a % of your total load
+
+- tag: merger
+  question: Are you currently involved in any publicly disclosed merger & acquisition discussions
+  options: {0: "No", 5: "Yes"}
+  context: This refers to any M&A activity that has been disclosed
+
+- tag: in_merger
+  question: Are you currently in the process of implementing a merger & acquisition
+  options: {0: "No", 10: "Yes"}
+  context: This refers to the implementation / integration period after the M&A transaction closes
+
+- tag: offsite_data
+  question: Do you allow sensitive data to be stored offsite
+  options: {0: "No", 3: "Yes"}
+  context: This includes any form of IT or OT data, and refers to any storage of data off-premises, including in the cloud
+
+- tag: ldc_conn
+  question: Is your entity connected physically or logically to another LDC
+  options: {0: "No", 3: "Yes"}
+  context: This refers to any computer connections with another LDC
+
+- tag: shared_ot
+  question: Does your entity have any shared OT environments
+  options: {0: "No", 3: "Yes"}
+  context: This includes connectivity / sharing with other OT environments such as water, ISP, etc.
+
+- tag: critical
+  question: Does your entity serve any critical infrastructure installations
+  options: {0: "No", 3: "Yes"}
+  context: This includes any sensitive cortical infrastructure such as military bases, any major medical facilities, major federal government offices, Embassies, etc.
+
+- tag: public_auth
+  question: Does your entity provide any public facing applications that require authentication
+  options: {0: "No", 3: "Yes"}
+  context: This includes any applications that you provide for consumers / businesses, such as for viewing their data usage or account information on-line
+
+- tag: public_energy
+  question: Is your entity involved in any publicly contentious energy projects
+  options: {0: "No", 3: "Yes"}
+  context: This would include any contentious wind, solar, hydro projects
+
+- tag: demand_response
+  question: Does your entity provide any Demand Response programs
+  options: {0: "No", 3: "Yes"}
+  context: This includes any demand response, peak shaving, load management programs that you provide and manage
+
+- tag: share_data
+  question: Does your entity share any operating data with other entities
+  options: {0: "No", 3: "Yes"}
+  context: This includes sharing with fire departments, police, emergency response, etc.
+
