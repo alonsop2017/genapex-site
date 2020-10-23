@@ -17,7 +17,7 @@ layout: default
 	Computer services and data files are at great risk. The number of 
 	security breaches is skyrocketing. The cost to recover from a security 
 	event is now reported to range from $40,000 for a minor incident, to 
-	millions of dollars for a severe ransom situation. Several 
+	millions of dollars for a severe ransomware attack. Several 
 	large enterprises have even been forced into bankruptcy following 
 	a major cybersecurity attack.</p>
 
