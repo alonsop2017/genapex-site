@@ -23,6 +23,8 @@ business.
 
 * [Canadian Centre for Cyber Security](https://cyber.gc.ca/en/)
 
+* [Canadian Internet Registration Authority](https://www.cira.ca/resources/cybersecurity-resources)
+
 * IT World Canada: Understanding Canadian Cybersecurity Laws
 
   1. [Foundation](https://www.itworldcanada.com/blog/understanding-canadian-cybersecurity-laws-the-foundations/425979)
