@@ -5,7 +5,7 @@ layout: default
 <div class="row">
   <div class="col-md-8 mb-5">
   <h2>Welcome</h2>
-	<b> Salient Security Services is here to help. </b>
+	<b> Salient Security is here to help. </b>
 	<p>
 	Our mission is to enable 
 	small and medium sized companies in the Niagara Region win their 

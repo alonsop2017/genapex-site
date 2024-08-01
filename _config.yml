@@ -1,10 +1,10 @@
-title: Salient Security Services Inc.
+title: Salient Security
 description: Cyber security professionals, safeguard your business from phishing, malware, identity theft, hacking and other security incidents. Plan for business continuity, disaster recovery, prevent, insure and recover.
 
 baseurl: ""
 url: "https://salientsecurity.ca"
 destination: /var/www/salientsecurity
-email: info@salientsecurity.ca
+email: sales@salientsecurity.ca
 
 color-scheme: "mediumseagreen" # the scheme can be any HEX code like "#00aa55"
 
@@ -17,3 +17,5 @@ include:
 
 exclude:
   - .sass-cache
+
+plugins: ['jekyll-twitter-plugin']
