@@ -1,9 +1,51 @@
 <!-- Footer -->
 <footer class="py-5 bg-dark">
   <div class="container">
-    <p class="m-0 text-center text-white">
-      Copyright &copy; {{ site.title }}, 2020
-    </p>
+    <div class="row">
+      <div class="col-lg-4 mb-4 mb-lg-0">
+        <h5 class="text-white">GenApex Enterprise Evolution</h5>
+        <p class="text-white-50">Innovative AI-powered consulting and digital solutions for governments and public utilities.</p>
+        <div class="social-icons mt-3">
+          <a href="{{ site.social.linkedin }}" class="text-white mr-3" target="_blank"><i class="fab fa-linkedin fa-lg"></i></a>
+          <a href="{{ site.social.twitter }}" class="text-white mr-3" target="_blank"><i class="fab fa-twitter fa-lg"></i></a>
+        </div>
+      </div>
+      
+      <div class="col-lg-4 mb-4 mb-lg-0">
+        <h5 class="text-white">Quick Links</h5>
+        <ul class="list-unstyled footer-links">
+          {% for item in site.data.menu %}
+          <li class="mb-2">
+            <a href="{{ site.baseurl }}{{ item.link }}" class="text-white-50">{{ item.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      
+      <div class="col-lg-4">
+        <h5 class="text-white">Contact Us</h5>
+        <ul class="list-unstyled text-white-50">
+          <li class="mb-2"><i class="fas fa-map-marker-alt mr-2"></i> {{ site.address }}</li>
+          <li class="mb-2"><i class="fas fa-phone mr-2"></i> {{ site.phone }}</li>
+          <li class="mb-2"><i class="fas fa-envelope mr-2"></i> <a href="mailto:{{ site.email }}" class="text-white-50">{{ site.email }}</a></li>
+        </ul>
+      </div>
+    </div>
+    
+    <hr class="bg-secondary my-4">
+    
+    <div class="row">
+      <div class="col-md-6">
+        <p class="m-0 text-white-50 small">
+          Copyright &copy; 2024 {{ site.title }}. All rights reserved.
+        </p>
+      </div>
+      <div class="col-md-6 text-md-right">
+        <p class="m-0 text-white-50 small">
+          <a href="{{ site.baseurl }}/privacy-policy/" class="text-white-50">Privacy Policy</a> | 
+          <a href="{{ site.baseurl }}/terms-of-service/" class="text-white-50">Terms of Service</a>
+        </p>
+      </div>
+    </div>
   </div>
-  <!-- /.container -->
 </footer>

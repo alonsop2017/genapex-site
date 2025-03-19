@@ -1,0 +1,35 @@
+- id: strategic
+  title: Strategic Business Planning
+  icon: fa-chart-line
+  description: We help public sector organizations develop comprehensive strategic plans that align with their mission, vision, and values. Our approach incorporates innovative technologies and methodologies to create actionable roadmaps for sustainable growth.
+  link: /services/#strategic
+
+- id: digital
+  title: Digital Transformation
+  icon: fa-digital-tachograph
+  description: Our digital transformation services help public organizations leverage technology to improve operational efficiency, enhance service delivery, and create better citizen experiences through AI-powered solutions.
+  link: /services/#digital
+
+- id: information
+  title: Information Management
+  icon: fa-database
+  description: We help organizations implement robust information management systems that ensure data integrity, security, and accessibility, enabling data-driven decision making across all levels of government.
+  link: /services/#information
+
+- id: process
+  title: Process Optimization
+  icon: fa-sync-alt
+  description: Through detailed analysis and innovative redesign, we help public sector organizations streamline processes, eliminate redundancies, and implement automation to improve efficiency and service quality.
+  link: /services/#process
+
+- id: products
+  title: Digital Products & Services
+  icon: fa-laptop-code
+  description: We develop custom digital products and services that address specific challenges faced by public sector organizations, from citizen engagement platforms to internal workflow systems.
+  link: /services/#products
+
+- id: urban
+  title: Urban Planning & Development
+  icon: fa-city
+  description: Our team helps municipalities design and implement sustainable urban development strategies that enhance quality of life, promote economic growth, and address environmental concerns.
+  link: /services/#urban

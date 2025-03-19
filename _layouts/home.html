@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<script>
+  // Enable smooth scrolling
+  document.addEventListener('DOMContentLoaded', function() {
+    var scrollLinks = document.querySelectorAll('a.js-scroll-trigger[href*="#"]:not([href="#"])');
+    
+    for (var i = 0; i < scrollLinks.length; i++) {
+      scrollLinks[i].addEventListener('click', function(e) {
+        if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+          var target = document.querySelector(this.hash);
+          target = target ? target : document.querySelector('[name=' + this.hash.slice(1) + ']');
+          if (target) {
+            e.preventDefault();
+            window.scrollTo({
+              top: target.offsetTop - 70,
+              behavior: 'smooth'
+            });
+            return false;
+          }
+        }
+      });
+    }
+    
+    // Highlight active navigation item
+    var path = window.location.pathname;
+    path = path.replace(/\/$/, "");
+    path = decodeURIComponent(path);
+    
+    var navLinks = document.querySelectorAll(".navbar-nav a.nav-link");
+    for (var i = 0; i < navLinks.length; i++) {
+      var href = navLinks[i].getAttribute('href');
+      if (path.substring(0, href.length) === href) {
+        navLinks[i].closest('li').classList.add('active');
+      }
+    }
+  });
+</script>

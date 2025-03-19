@@ -1,0 +1,12 @@
+title: GenApex Enterprise Evolution
+description: Innovative AI-powered consulting and digital solutions for governments and public utilities.
+author: Alonso Perez
+baseurl: ""
+url: "http://localhost:4001"
+exclude:
+  - .sass-cache
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .tweet-cache
+  - "_pages/alerts.md"

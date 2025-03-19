@@ -3,8 +3,10 @@
 
 @charset "utf-8";
 
+$primary-color: #575f00;
+
 $theme-colors: (
-  "primary": {{site.color-scheme}}
+  "primary": $primary-color
 );
 
 // Width of the content area

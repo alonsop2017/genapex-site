@@ -1,12 +1,31 @@
-title: Salient Security
-description: Cyber security professionals, safeguard your business from phishing, malware, identity theft, hacking and other security incidents. Plan for business continuity, disaster recovery, prevent, insure and recover.
+title: GenApex Enterprise Evolution
+description: Innovative AI-powered consulting and digital solutions for governments and public utilities.
+author: Alonso Perez
 
+# Development settings
 baseurl: ""
-url: "https://salientsecurity.ca"
-destination: /var/www/salientsecurity
-email: sales@salientsecurity.ca
+url: "http://localhost:4000" # Development URL - change to your production URL when deploying
 
-color-scheme: "mediumseagreen" # the scheme can be any HEX code like "#00aa55"
+# Contact information
+email: sales@GenApex.org
+phone: "+1 (647) 366-9844" # Update with your actual phone number
+address: "123 Innovation Ave, Suite 200, Toronto, ON" # Update with actual address
+
+# Social media
+social:
+  linkedin: https://linkedin.com/company/genapex # Update with actual URL
+  twitter: https://twitter.com/genapex # Update with actual URL
+
+# Brand settings
+color-scheme: "#575f00" # the scheme can be any HEX code like "#00aa55" Used ginko leaves color palette
+logo: /assets/img/GENAPEX-logo (2).jpg
+
+# SEO settings
+lang: en
+keywords: AI, digital transformation, government, public utilities, strategic planning, process optimization
+
+# Theme settings
+theme: minima
 
 sass:
   sass_dir: /assets/css/_sass
@@ -17,5 +36,23 @@ include:
 
 exclude:
   - .sass-cache
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .jekyll-cache
 
-plugins: ['jekyll-twitter-plugin']
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title:output_ext
+
+# Build settings
+markdown: kramdown
+
+# Plugin settings
+plugins: 
+  - jekyll-feed
+  - jekyll-seo-tag

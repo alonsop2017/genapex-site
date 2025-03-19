@@ -1,0 +1,20 @@
+# Development configuration
+# Override settings from _config.yml for local development
+
+# Use local URL
+url: "http://localhost:4000"
+
+# Faster builds
+incremental: true
+
+# More logging
+verbose: true
+
+# Skip minification for faster builds
+sass:
+  style: expanded
+
+# Skip plugins that cause issues locally
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

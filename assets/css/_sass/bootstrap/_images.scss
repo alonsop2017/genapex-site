@@ -21,7 +21,12 @@
   // Keep them at most 100% wide
   @include img-fluid;
 }
-
+.team-member img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
 //
 // Figures
 //

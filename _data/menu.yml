@@ -4,14 +4,11 @@
 - title: Services
   link: "/services/"
 
-- title: Tools
-  link: "/tools/"
-
 - title: Resources
   link: "/resources/"
 
-- title: Alerts
-  link: "/alerts/"
+- title: Team
+  link: "/team/"
 
 - title: Blog
   link: "/blog/"

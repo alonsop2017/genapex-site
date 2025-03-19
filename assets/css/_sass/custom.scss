@@ -1,14 +1,232 @@
-/* Add your custom styles here */
-// .btn-primary{
-//     background-color: #1d4367;
-//     border-color: #1d4367;
-//     color: #ffc00f;
-//     &:hover{
-//         background-color: #ffc00f;
-//         border-color: #ffc00f;
-//         color: #1d4367;
-//     }
-// }
-// .bg-primary{
-//     background-color: #1d4367 !important
-// }
+/* GenApex Enterprise Evolution Custom Styles */
+
+// Brand Colors
+$brand-primary: #575f00;
+$brand-secondary: #4c5200; 
+$brand-accent: #8a9900;
+
+// Base Styles
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+}
+
+// Logo Styles
+.logo img {
+  max-width: 100px;
+  height: auto;
+  margin-right: 20px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  margin: 0 auto;
+}
+  
+.logo-image {
+  max-width: 100%;
+  height: auto;
+  max-height: 120px;
+  object-fit: contain;
+}
+
+// Buttons
+.btn-primary {
+  background-color: $brand-primary;
+  border-color: $brand-primary;
+  color: #fff;
+  
+  &:hover {
+    background-color: $brand-secondary;
+    border-color: $brand-secondary;
+    color: #fff;
+  }
+}
+
+.btn-outline-primary {
+  color: $brand-primary;
+  border-color: $brand-primary;
+  
+  &:hover {
+    background-color: $brand-primary;
+    color: #fff;
+  }
+}
+
+// Background Colors
+.bg-primary {
+  background-color: $brand-primary !important;
+}
+
+// Team Member Styles
+.team-member {
+  text-align: center;
+  margin-bottom: 2rem;
+  
+  img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 1rem;
+    border: 3px solid $brand-accent;
+    transition: transform 0.3s ease;
+    
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
+  
+  h4 {
+    font-weight: 600;
+    color: $brand-primary;
+    margin-bottom: 0.5rem;
+  }
+  
+  p.title {
+    font-style: italic;
+    margin-bottom: 1rem;
+  }
+}
+
+// Navigation
+.navbar {
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255,255,255,0.8);
+  
+  &:hover {
+    color: #fff;
+  }
+}
+
+.navbar-dark .navbar-nav .active > .nav-link {
+  font-weight: bold;
+  color: #fff;
+}
+
+// Hero Section
+.hero-section {
+  padding: 3rem 0;
+}
+
+// Cards
+.card {
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin-bottom: 1.5rem;
+  
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  }
+}
+
+.card-title {
+  color: $brand-primary;
+  font-weight: 600;
+}
+
+// Service Cards
+.service-icon-container {
+  margin-bottom: 1.5rem;
+  color: $brand-primary;
+}
+
+.service-section {
+  padding: 2rem 0;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+  
+  &:hover {
+    background-color: #f9f9f9;
+  }
+}
+
+.service-description {
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+}
+
+// Check List
+.check-list {
+  list-style: none;
+  padding-left: 0;
+  
+  li {
+    margin-bottom: 0.7rem;
+    padding-left: 1.8rem;
+    position: relative;
+    
+    i {
+      position: absolute;
+      left: 0;
+      top: 4px;
+    }
+  }
+}
+
+// Footer
+footer {
+  h5 {
+    font-weight: 600;
+    margin-bottom: 1.2rem;
+  }
+  
+  .social-icons a {
+    transition: opacity 0.3s ease;
+    margin-right: 1rem;
+    
+    &:hover {
+      opacity: 0.8;
+      text-decoration: none;
+    }
+  }
+  
+  .footer-links a {
+    transition: color 0.3s ease;
+    
+    &:hover {
+      color: white !important;
+      text-decoration: none;
+    }
+  }
+}
+
+// Blog
+.blog-post {
+  margin-bottom: 3rem;
+  
+  .post-title {
+    color: $brand-primary;
+    margin-bottom: 0.5rem;
+  }
+  
+  .post-meta {
+    color: #6c757d;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+  }
+  
+  .post-excerpt {
+    margin-bottom: 1rem;
+  }
+}
+
+// Responsive Adjustments
+@media (max-width: 768px) {
+  .hero-section {
+    padding: 2rem 0;
+  }
+  
+  .service-section {
+    text-align: center;
+  }
+}
