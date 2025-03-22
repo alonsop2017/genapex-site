@@ -4,7 +4,7 @@ author: Alonso Perez
 
 # Development settings
 baseurl: ""
-url: "http://localhost:4000" # Development URL - change to your production URL when deploying
+url: "https://genapex.org/" # Development URL - change to your production URL when deploying
 
 # Contact information
 email: sales@GenApex.org
