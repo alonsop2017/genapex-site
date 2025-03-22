@@ -18,7 +18,7 @@ permalink: /services/
       <div id="{{ service.id }}" class="row service-section mb-5 py-3">
         <div class="col-md-3 text-center mb-3 mb-md-0">
           <div class="service-icon-container">
-            <span class="service-icon h1">{{ service.title | slice: 0, 2 }}</span>
+            <i class="fas {{ service.icon }} service-icon h1"></i>
           </div>
         </div>
         <div class="col-md-9">
