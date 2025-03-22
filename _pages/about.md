@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 5XAI Solutions
+title: About GenApex.org
 permalink: /about/
 ---
 
