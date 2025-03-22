@@ -63,7 +63,7 @@ permalink: /terms-of-service/
     <p>
       GenApex Enterprise Evolution<br>
       {{ site.address }}<br>
-      Email: {{ site.email }}<br>
+      Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a><br>
       Phone: {{ site.phone }}
     </p>
   </div>
