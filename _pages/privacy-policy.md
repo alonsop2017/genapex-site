@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Privacy Policy
 permalink: /privacy-policy/
 ---
@@ -31,17 +31,20 @@ permalink: /privacy-policy/
     <h2>Use of Your Information</h2>
     <p>Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you to:</p>
     
-    <ul>
-      <li>Create and manage your account</li>
-      <li>Respond to your inquiries and service requests</li>
-      <li>Send you newsletters, updates, and marketing communications</li>
-      <li>Compile anonymous statistical data and analysis for use internally or with third parties</li>
-      <li>Deliver targeted advertising, newsletters, and other information regarding promotions and our website to you</li>
-      <li>Increase the efficiency and operation of our website and services</li>
-      <li>Monitor and analyze usage and trends to improve your experience with our website and services</li>
-      <li>Notify you of updates to our website and services</li>
-      <li>Perform other business activities as needed</li>
-    </ul>
+<div style="text-align: left;">
+  <ul style="padding-left: 20px;">
+    <li>Create and manage your account</li>
+    <li>Respond to your inquiries and service requests</li>
+    <li>Send you newsletters, updates, and marketing communications</li>
+    <li>Compile anonymous statistical data and analysis for use internally or with third parties</li>
+    <li>Deliver targeted advertising, newsletters, and other information regarding promotions and our website to you</li>
+    <li>Increase the efficiency and operation of our website and services</li>
+    <li>Monitor and analyze usage and trends to improve your experience with our website and services</li>
+    <li>Notify you of updates to our website and services</li>
+    <li>Perform other business activities as needed</li>
+  </ul>
+</div>
+
 
     <h2>Disclosure of Your Information</h2>
     <p>We may share information we have collected about you in certain situations. Your information may be disclosed as follows:</p>
