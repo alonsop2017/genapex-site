@@ -26,6 +26,24 @@ permalink: /services/
           <p class="service-description">{{ service.description }}</p>
           
           {% case service.id %}
+          {% when 'ai-powered' %}
+          <h4>Our AI Capabilities:</h4>
+          <ul>
+            <li>Predictive analytics and forecasting</li>
+            <li>Natural language processing solutions</li>
+            <li>Automated decision support systems</li>
+            <li>Data pattern recognition and anomaly detection</li>
+            <li>AI-driven process automation</li>
+          </ul>
+          {% when 'strategic-advisory' %}
+          <h4>Advisory Services:</h4>
+          <ul>
+            <li>Technology investment consultation</li>
+            <li>Risk management and mitigation</li>
+            <li>Policy development and implementation</li>
+            <li>Regulatory compliance strategies</li>
+            <li>Public-private partnership frameworks</li>
+          </ul>
           {% when 'strategic' %}
           <h4>Key Components:</h4>
           <ul>

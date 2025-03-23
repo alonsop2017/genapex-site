@@ -1,3 +1,15 @@
+- id: ai-powered
+  title: AI-Powered Solutions
+  icon: fa-robot
+  description: Leverage advanced artificial intelligence to transform data into actionable insights and optimize government operations, enhancing decision-making and service delivery.
+  link: /services/#ai-powered
+
+- id: strategic-advisory
+  title: Strategic Advisory
+  icon: fa-lightbulb
+  description: Expert guidance to navigate complex public sector challenges with innovative, future-proof strategies that align with organizational goals and public needs.
+  link: /services/#strategic-advisory
+
 - id: strategic
   title: Strategic Business Planning
   icon: fa-chart-line
