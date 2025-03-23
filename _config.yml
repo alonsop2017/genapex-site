@@ -3,8 +3,8 @@ description: Innovative AI-powered consulting and digital solutions for governme
 author: Alonso Perez
 
 # Development settings
-baseurl: "./"
-url: "https://genapex.org/" # Development URL - change to your production URL when deploying
+baseurl: ""
+url: "https://genapex.org" # Development URL - change to your production URL when deploying
 
 # Contact information
 email: sales@genapex.org

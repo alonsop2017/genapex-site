@@ -6,7 +6,7 @@
 
 - id: digital
   title: Digital Transformation
-  icon: fa-digital-tachograph
+  icon: fa-laptop
   description: Our digital transformation services help public organizations leverage technology to improve operational efficiency, enhance service delivery, and create better citizen experiences through AI-powered solutions.
   link: /services/#digital
 
