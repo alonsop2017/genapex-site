@@ -62,7 +62,6 @@ permalink: /terms-of-service/
     <p>If you have any questions about these Terms of Service, please contact us at:</p>
     <p>
       GenApex Enterprise Evolution<br>
-      {{ site.address }}<br>
       Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a><br>
       Phone: {{ site.phone }}
     </p>

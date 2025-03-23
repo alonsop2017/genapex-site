@@ -58,7 +58,7 @@ title: Home
     <div class="card h-100">
       <div class="card-body">
         <div class="text-center mb-3">
-          <span class="service-icon text-primary">{{ service.title | slice: 0, 2 }}</span>
+          <i class="fas {{ service.icon }} service-icon h1 text-primary"></i>
         </div>
         <h4 class="card-title text-center">{{ service.title }}</h4>
         <p class="card-text">{{ service.description }}</p>

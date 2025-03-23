@@ -80,7 +80,6 @@ permalink: /privacy-policy/
     <p>If you have questions or comments about this Privacy Policy, please contact us at:</p>
     <p>
       GenApex Enterprise Evolution<br>
-      {{ site.address }}<br>
       Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a><br>
       Phone: {{ site.phone }}
     </p>

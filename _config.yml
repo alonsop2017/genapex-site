@@ -7,9 +7,9 @@ baseurl: "./"
 url: "https://genapex.org/" # Development URL - change to your production URL when deploying
 
 # Contact information
-email: sales@GenApex.org
-phone: "+1 (647) 366-9844" # Update with your actual phone number
-address: "123 Innovation Ave, Suite 200, Toronto, ON" # Update with actual address
+email: sales@genapex.org
+phone: "647-366-9844"
+# No physical address
 
 # Social media
 social:
