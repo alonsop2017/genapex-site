@@ -4,11 +4,15 @@ permalink: /resources/
 ---
 
 # Resources
-This page provides important announcements regarding GenApex Enterprise Evolution as well as articles produced by our staff and links to relevent industry topics.
+This page provides important announcements regarding GenApex Enterprise Evolution as well as articles produced by our staff and links to relevant industry topics.
 
 ## Press Release
 
   * [GenApex Enterprise Evolution launch press release](https://sway.cloud.microsoft/FGh98RqbYSEoCuxr?ref=Link)
+
+## Podcasts
+
+  * [GenApex Podcast - Describes the importance of water treatment and the use of AI in its operations](file://./assets/Podcasts/GenApex.mp3)
 
 ## Articles
 
