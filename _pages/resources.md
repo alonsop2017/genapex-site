@@ -4,7 +4,7 @@ permalink: /resources/
 ---
 
 # Resources
-This page provides important announcements regarding GenApex Enterprise Evolution as well as articles produced by our staff and links to relevant industry topics.
+This page provides important announcements regarding GenApex Enterprise Evolution as well as articles and podcasts produced by our staff as well as links to relevant industry topics.
 
 ## Press Release
 
