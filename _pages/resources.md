@@ -12,7 +12,12 @@ This page provides important announcements regarding GenApex Enterprise Evolutio
 
 ## Podcasts
 
-  * [GenApex Podcast - Describes the importance of water treatment and the use of AI in its operations](file://./assets/Podcasts/GenApex.mp3)
+  * [GenApex Podcast - Describes the importance of water treatment and the use of AI in its operations]()
+<audio controls>
+  <source src="/assets/Podcasts/GenApex.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 
 ## Articles
 
