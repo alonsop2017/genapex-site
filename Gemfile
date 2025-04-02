@@ -2,16 +2,17 @@ source "https://rubygems.org"
 
 # Use Jekyll 4.3.x
 
+# Corrected Gemfile
 gem "github-pages", "~> 232", group: :jekyll_plugins
-gem "jekyll", "~> 4.3.3"  # Match GitHub's Jekyll version [1][6]
+gem "jekyll", "3.10.0"
+
 
 # Theme
 gem "minima", "~> 2.5.1"
 
 # Essential plugins
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.15.0"
-  gem "github-pages", "~> 232", group: :jekyll_plugins
+  gem "jekyll-feed"
 end
 
 # Required for Ruby 3+
