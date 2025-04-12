@@ -28,7 +28,13 @@ Sandy’s expertise is particularly applicable to initiatives involving alignmen
 
 <h3>Alonso Perez</h3>
 <img src='/assets/img/Alonso-Perez.svg' alt='Alonso Perez' width="150" class="team-member">
-<p>With a career spanning more than 30 years, Alonso is a seasoned Senior Consultant with a broad spectrum of expertise in enterprise-level information systems and business transformations. His proficiency encompasses Enterprise and Business Architectures, IT Strategic Planning, Enterprise Transformation Roadmaps and Business Case development, as well as Project Management. With a background in diverse sectors like manufacturing, government (all levels–National, Provincial/State, Municipal/Local), and petroleum. Alonso has honed his skills in various professional development courses and is adept with multiple tools and computer languages. His career is distinguished by his roles in major projects, in Canada and internationally (North, Central and South America and the Caribbean), at a big four consulting firm as well as significant independent consulting work, reflecting his versatile and global experience. He has over 20 years of experience in business and technology transformation projects in the water services industry.</p>
+<p>Alonso Perez — <b>The Architekt of Possibility</b>
+Alonso is a senior enterprise architect and transformation strategist with a career spanning public utilities, government modernization, and private sector innovation. As the founder of Archtekt Consulting Inc., he leads complex initiatives that integrate business strategy, IT modernization, and operational excellence to drive measurable value.
+
+With deep expertise in target operating model design, stakeholder alignment, and technology implementation, Alonso delivers end-to-end solutions that enable sustainable growth and digital agility. His work ranges from restructuring national insurance systems to designing self-sufficient smart villages in emerging markets.
+
+A results-driven advisor, he combines enterprise-grade methodologies with hands-on experience in AI systems, data analytics, and secure digital platforms. His mission: to architect bold, adaptive futures — one transformation at a time.
+</p>
 
 <p>Education & Certifications </p>
   * Bachelor of Science, Computer Science – University of Ottawa
