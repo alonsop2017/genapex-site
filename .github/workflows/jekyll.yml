@@ -14,4 +14,4 @@ jobs:
           gem install jekyll -v 4.3.3
           gem install jekyll-seo-tag -v 2.8.0
           bundle exec jekyll build
-      - uses: actions/upload-pages@v2
+      - uses: actions/upload-pages@v3
