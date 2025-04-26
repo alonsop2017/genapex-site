@@ -9,8 +9,10 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     permissions:  # Add this block
-      id-token: write  # Required for OIDC token generation
-      contents: read   # Required for checkout
+    contents: read
+    pages: write      # This is the critical permission
+    id-token: write   # This is needed for Pages deployment]
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
