@@ -12,7 +12,8 @@ gem "minima", "~> 2.5.1"
 
 # Essential plugins
 group :jekyll_plugins do
-  gem "jekyll-feed"
+    gem "jekyll-feed"
+    gem "faraday-retry"
 end
 
 # Required for Ruby 3+
