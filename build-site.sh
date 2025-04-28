@@ -7,3 +7,6 @@ rm -rf _site
 
 # Build site
 bundle exec jekyll build --trace
+git add .
+git commit -m "GitHub rebuild"
+git push origin main

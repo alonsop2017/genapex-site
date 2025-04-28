@@ -6,7 +6,7 @@ permalink: /team/
 
 <H1>Our Team</H1>
 <h3>Hardat Barran</h3> 
-<img src='/assets/img/Hardat-Barran.svg' alt='Hardat Barran' width="150" class="team-member">
+<img src='/assets/img/Hardat-Barran.svg' alt='Hardat Barran' width="150" class="team-member">'
 <p>Over 30 years successfully leading major undertakings and programs for sponsors who had vested interest in program success and were facing risks if they were to fail. The programs all had significant technology elements intertwined with policy, politics and organizational layers making for complex challenges. Extensive work experience in North America (Canada & US), South America & Caribbean (Guyana, Trinidad, Barbados), and Central America (Nicaragua).</p>
 
   * Bachelor of Science Mechanical Engineering (BSc. Hons) University of the West Indies, St. Augustine, Trinidad. 
