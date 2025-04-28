@@ -32,15 +32,14 @@ Sandy’s expertise is particularly applicable to initiatives involving alignmen
 
 <h3>Alonso Perez</h3>
 <img src='/assets/img/Alonso-Perez.svg' alt='Alonso Perez' width="150" class="team-member">
-<p>Alonso Perez — <b>The Architekt of Possibility</b>
-Alonso is a senior enterprise architect and transformation strategist with a career spanning public utilities, government modernization, and private sector innovation. As the founder of Archtekt Consulting Inc., he leads complex initiatives that integrate business strategy, IT modernization, and operational excellence to drive measurable value.</p>
+<p>Alonso Perez — Alonso leads our technology architecture practice. He is a senior enterprise architect and transformation strategist with a career spanning public utilities, government modernization, and private sector innovation. He leads complex initiatives that integrate business strategy, IT modernization, and operational excellence to drive measurable value.</p>
 
-<p>With deep expertise in target operating model design, stakeholder alignment, and technology implementation, Alonso delivers end-to-end solutions that enable sustainable growth and digital agility. His work ranges from restructuring national insurance systems to designing self-sufficient smart villages in emerging markets.</p>
+<p>With deep expertise in target operating model design, stakeholder alignment, and technology implementation, Alonso delivers end-to-end solutions that enable sustainable growth and digital agility. His work ranges from restructuring national insurance systems to designing the technology, networks, and processes for self-sufficient smart villages in emerging markets.</p>
 
-<p>A results-driven advisor, he combines enterprise-grade methodologies with hands-on experience in AI systems, data analytics, and secure digital platforms. His mission: to architect bold, adaptive futures — one transformation at a time.</p
-</p>
-
-<p>Education & Certifications </p>
+<p>A results-driven advisor, he combines enterprise-grade methodologies with hands-on experience in AI systems, data analytics, and secure digital platforms. His mission: to architect bold, adaptive futures — one transformation at a time.
+He has the role of Chief Technology Officer and is responsible for the successful planning, design,security, implementation, and operation of the proposed solutions. </p>
+<p> </p>
+<p><b>Education & Certifications </b></p>
   * Bachelor of Science, Computer Science – University of Ottawa
   * Master of Engineering, Industrial Engineering – University of Toronto
   * Cerfied Management Consultant (CMC)
