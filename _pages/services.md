@@ -97,6 +97,7 @@ permalink: /services/
             <li>Community engagement strategies</li>
             <li>Public space optimization</li>
             <li>Transportation and mobility planning</li>
+	         <li>Capital Program development and long-term planning</li>
           </ul>
           {% endcase %}
         </div>

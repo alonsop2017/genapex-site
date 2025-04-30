@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 permalink: /blog/
+regenerate: true
 ---
 
 ## Latest Posts

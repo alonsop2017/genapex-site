@@ -8,4 +8,4 @@ author: Alonso Perez
 ---
 Water and wastewater treatment are critical public services that ensure safe and reliable access to clean water for communities worldwide. These processes are essential for maintaining public health, environmental protection, and sustainable development. However, the treatment of water and wastewater involves a complex network of interdependent processes that require significant infrastructure investments and operational expertise.
 
- * See this article [[**<u>here</u>**](https://sway.cloud.microsoft/d31ya30itO2AQPf9?ref=Link)
+ * Read this article [[**<u>here</u>**](https://sway.cloud.microsoft/d31ya30itO2AQPf9?ref=Link)

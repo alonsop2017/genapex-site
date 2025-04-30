@@ -18,4 +18,4 @@ sharing
 
 
 
-  * See this article [**<u>here</u>**](https://sway.cloud.microsoft/yg2zs9ShQox9ooZ3?authoringPlay=true&publish)
+  * Read this article [**<u>here</u>**](https://sway.cloud.microsoft/yg2zs9ShQox9ooZ3?authoringPlay=true&publish)
