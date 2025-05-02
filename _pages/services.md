@@ -147,7 +147,7 @@ permalink: /services/
           <p class="card-text text-center">For more detailed service descriptions or to discuss your specific needs, please contact our team.</p>
           <div class="text-center">
             <a href="{{ site.baseurl }}/contact/" class="btn btn-primary">Contact Us</a>
-            <a href="https://sway.cloud.microsoft/ceIACE9nHBdeawAT?ref=Link" class="btn btn-outline-secondary ml-2" target="_blank">
+            <a href="https://sway.cloud.microsoft/ceIACE9nHBdeawAT?play" class="btn btn-outline-secondary ml-2" target="_blank">
               View Extended Service Details
             </a>
           </div>
