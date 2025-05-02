@@ -22,6 +22,8 @@ This page provides important announcements regarding GenApex Enterprise Evolutio
 
 ## Articles
 
+  * [AI in Government – Enhancing Decision -Making and Service Delivery](https://https://sway.cloud.microsoft/IeYx2x5bQgtOqBIv?ref=Link)  
+
   * [Intelligent Automation for Life's Liquid Assets: Enhancing Water Treatment with LLMs, AI, and Human Expertise](https://sway.cloud.microsoft/d31ya30itO2AQPf9?authoringPlay=true&publish)
 
   * [Cyber Resilience: Safeguarding Our Vital Water Lifelines](https://sway.cloud.microsoft/yg2zs9ShQox9ooZ3?authoringPlay=true&publish)
