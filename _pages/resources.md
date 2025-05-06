@@ -22,7 +22,7 @@ This page provides important announcements regarding GenApex Enterprise Evolutio
 
 ## Articles
 
-  * [The Algorithmic Leap: How Artificial Intelligence is Revolutionizing Public Governance and Service Delivery](/assets/HTML_Articles/Article-1.html) 
+  * [The Algorithmic Leap: How Artificial Intelligence is Revolutionizing Public Governance and Service Delivery](/assets/HTML_Articles/Article-1.html)
 
   * [Intelligent Automation for Life's Liquid Assets: Enhancing Water Treatment with LLMs, AI, and Human Expertise](https://sway.cloud.microsoft/d31ya30itO2AQPf9?authoringPlay=true&publish)
 
