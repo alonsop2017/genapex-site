@@ -17,6 +17,8 @@ title: Home
   </div>
 </div>
 
+<h2 class="text-center mb-4">Our Services</h2>
+
 <div class="row value-props mb-5">
   <div class="col-md-4 mb-4">
     <div class="card h-100 text-center">
@@ -48,8 +50,6 @@ title: Home
     </div>
   </div>
 </div>
-
-<h2 class="text-center mb-4">Our Services</h2>
 
 {% if site.data.services.main %}
 <div class="row services-preview">
