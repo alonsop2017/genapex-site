@@ -45,3 +45,9 @@
   icon: fa-city
   description: Our team helps municipalities design and implement sustainable urban development strategies that enhance quality of life, promote economic growth, and address environmental concerns.
   link: /services/#urban
+
+- id: micro-consulting
+  title: Micro-Consulting
+  icon: fa-bolt
+  description: On-demand enterprise architecture guidance with fast, focused, and frictionless expert insights. Get strategic direction without long contracts through our productized consulting packages.
+  link: /services/micro-consulting/
