@@ -5,22 +5,6 @@ permalink: /team/
 ---
 
 <H1>Our Team</H1>
-<h3>Hardat Barran</h3> 
-<img src='/assets/img/Hardat-Barran.svg' alt='Hardat Barran' width="150" class="team-member">'
-<p>Over 30 years successfully leading major undertakings and programs for sponsors who had vested interest in program success and were facing risks if they were to fail. The programs all had significant technology elements intertwined with policy, politics and organizational layers making for complex challenges. Extensive work experience in North America (Canada & US), South America & Caribbean (Guyana, Trinidad, Barbados), and Central America (Nicaragua).</p>
-
-  * Bachelor of Science Mechanical Engineering (BSc. Hons) University of the West Indies, St. Augustine, Trinidad. 
-
-  * Master of Business Administration (MBA), York University (Schulich School), Toronto. 
-
-  * Info Technology & Data Modeling, Institute for Computer Studies, Toronto.
-
-[**<u>Resume</u>**](https://sway.cloud.microsoft/RfXIct9FBBoGyZEn?ref=Link)
-
-<b>Contact</b>: <a href="mailto:hardat.barran@GenApex.org">hardat.barran@GenApex.org</a>
-
- <hr style="height: 5px; background-color: #333; border: none;">
-
 <h3>Sandy A. McBride</h3>
 <img src='/assets/img/Sandy-McBride.svg' alt='Sandy A. McBride' width="150" class="team-member">
 <p>Sandy has over 30 years of experience, with over 25 years in consulting leadership roles managing business transformation, enterprise architecture, I&IT planning, solution delivery, information management, business intelligence, performance management, and business improvement.  As a practice leader in enterprise architecture, planning and transformation methods, Sandy has developed or contributed to KPMG’s methods and tools for many of these disciplines.  Sandy focuses on alignment and integration of business and IT. 
@@ -33,7 +17,7 @@ Sandy’s expertise is particularly applicable to initiatives involving alignmen
 <h3>Alonso Perez</h3>
 <img src='/assets/img/Alonso-Perez.svg' alt='Alonso Perez' width="150" class="team-member">
 <p>Alonso Perez — Alonso leads our technology architecture practice. He is a senior enterprise architect and transformation strategist with a career spanning public utilities, government modernization, and private sector innovation. He leads complex initiatives that integrate business strategy, IT modernization, and operational excellence to drive measurable value.</p>
-<p>With deep expertise in target operating model design, stakeholder alignment, and technology implementation, Alonso delivers end-to-end solutions that enable sustainable growth and digital agility. His work ranges from restructuring national insurance systems to designing the technology, networks, and processes for self-sufficient smart villages in emerging markets. He has delivered projects for clients  in North Americs (US and Canada), Central America (Panama) South America (Venezuela and Colombia) , the Caribbean (Puerto Rico, Barbados, Trinidad & Tobago, Dominican Republic). </p>
+<p>With deep expertise in target operating model design, stakeholder alignment, and technology implementation, Alonso delivers end-to-end solutions that enable sustainable growth and digital agility. His work ranges from restructuring national insurance systems to designing the technology, networks, and processes for self-sufficient smart villages in emerging markets. He has delivered projects for clients  in North America (US and Canada), Central America (Panama) South America (Venezuela and Colombia) , the Caribbean (Puerto Rico, Barbados, Trinidad & Tobago, Dominican Republic). </p>
 <p>A results-driven advisor, he combines enterprise-grade methodologies with hands-on experience in AI systems, data analytics, and secure digital platforms. His mission: to architect bold, adaptive futures — one transformation at a time.
 He has the role of Chief Technology Officer and is responsible for the successful planning, design,security, implementation, and operation of the proposed solutions. </p>
 <p> </p>
