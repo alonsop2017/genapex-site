@@ -7,7 +7,7 @@ permalink: /team/
 <H1>Our Team</H1>
 <h3>Sandy A. McBride</h3>
 <img src='/assets/img/Sandy-McBride.svg' alt='Sandy A. McBride' width="150" class="team-member">
-<p>Sandy has over 30 years of experience, with over 25 years in consulting leadership roles managing business transformation, enterprise architecture, I&IT planning, solution delivery, information management, business intelligence, performance management, and business improvement.  As a practice leader in enterprise architecture, planning and transformation methods, Sandy has developed or contributed to KPMG’s methods and tools for many of these disciplines.  Sandy focuses on alignment and integration of business and IT. 
+<p>Sandy is our Chief Operating Officer, he has over 30 years of experience, with over 25 years in consulting leadership roles managing business transformation, enterprise architecture, I&IT planning, solution delivery, information management, business intelligence, performance management, and business improvement.  As a practice leader in enterprise architecture, planning and transformation methods, Sandy has developed or contributed to KPMG’s methods and tools for many of these disciplines.  Sandy focuses on alignment and integration of business and IT. 
 Sandy’s expertise is particularly applicable to initiatives involving alignment and integration, both from the business process perspective (aligning services, processes, organization designs and accountabilities) and from the technical perspective (focusing on data integration and system interoperability).  He focuses on applying the right methods and tools to deliver strategic business results.Sandy has experience with many architecture and modeling methods and tools, notably capability modeling, service modeling, process modeling (BPMN), Unified Modeling Language (UML), and data modeling, He has developed, implemented and trained teams in the use of architecture and modeling methods and tools.  </p>
 [**<u>Resume</u>**](https://sway.cloud.microsoft/obKrCNRUXuAc41Ym?ref=Link)
 <p>Contact: <a href="mailto:SAndy.McBride@GenApex.org">Sandy.McBride@GenApex.org</a></p>
@@ -16,9 +16,9 @@ Sandy’s expertise is particularly applicable to initiatives involving alignmen
 
 <h3>Alonso Perez</h3>
 <img src='/assets/img/Alonso-Perez.svg' alt='Alonso Perez' width="150" class="team-member">
-<p>Alonso Perez — Alonso leads our technology architecture practice. He is a senior enterprise architect and transformation strategist with a career spanning public utilities, government modernization, and private sector innovation. He leads complex initiatives that integrate business strategy, IT modernization, and operational excellence to drive measurable value.</p>
+<p>Alonso Perez — Alonso leads our technology architecture practice. He is a senior enterprise architect and IT transformation strategist with a career spanning public utilities, government modernization, and private sector innovation. He leads complex initiatives that integrate business strategy, IT modernization, and operational excellence to drive measurable value.</p>
 <p>With deep expertise in target operating model design, stakeholder alignment, and technology implementation, Alonso delivers end-to-end solutions that enable sustainable growth and digital agility. His work ranges from restructuring national insurance systems to designing the technology, networks, and processes for self-sufficient smart villages in emerging markets. He has delivered projects for clients  in North America (US and Canada), Central America (Panama) South America (Venezuela and Colombia) , the Caribbean (Puerto Rico, Barbados, Trinidad & Tobago, Dominican Republic). </p>
-<p>A results-driven advisor, he combines enterprise-grade methodologies with hands-on experience in AI systems, data analytics, and secure digital platforms. His mission: to architect bold, adaptive futures — one transformation at a time.
+<p>A results-driven advisor, he combines enterprise-grade methodologies with hands-on experience in AI, data analytics, and secure digital platforms. His mission: <i>to architect bold, adaptive futures — one transformation at a time.</i>
 He has the role of Chief Technology Officer and is responsible for the successful planning, design,security, implementation, and operation of the proposed solutions. </p>
 <p> </p>
 <p><b>Education & Certifications </b></p>
@@ -33,7 +33,7 @@ He has the role of Chief Technology Officer and is responsible for the successfu
 
 <h3>Mohamed Ali</h3>
 <img src='/assets/img/Mohamed-Ali.jpg' alt='Mohamed Ali' width="150" class="team-member">
-<p>Mohamed heads our Program Management office, ensuring seamless execution of all projects. His expertise lies in coordinating complex, multi-stakeholder initiatives in the in the retail, technology, oil and gas and educational sectors. With over 30 years of experience in the financial management and operations multiple organizatons in those sectors. He brings a unique practical expertise in making our plans and business cases realistic and attainable.</p>
+<p>Mohamed heads our Program Management office, ensuring seamless execution of all projects. His expertise lies in coordinating complex, multi-stakeholder initiatives in the in the retail, technology, oil and gas and educational sectors. With over 30 years of experience in the financial management and operations multiple organizations in those sectors. He brings a unique practical expertise in making our plans and business cases realistic and attainable.</p>
 
 <p>Education & Certifications </p>
   * Certified CPA Public Accountant - (CGA), Ontario
