@@ -8,7 +8,7 @@ regenerate: true
 This page provides important announcements regarding GenApex Enterprise Evolution as well as articles and podcasts produced by our staff as well as links to relevant industry topics.
 
 ## Press Release
-	Announcing the luch of GenApex Enteprise Evolution:
+	Announcing the launch of GenApex Enterprise Evolution:
   * [GenApex Enterprise Evolution launch press release](https://sway.cloud.microsoft/FGh98RqbYSEoCuxr?ref=Link)
 
 ## Podcasts
