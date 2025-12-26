@@ -9,7 +9,7 @@ This page provides important announcements regarding GenApex Enterprise Evolutio
 
 ## Press Release
 Announcing the launch of GenApex Enterprise Evolution:
-* [GenApex Enterprise Evolution launch press release](https://sway.cloud.microsoft/FGh98RqbYSEoCuxr?ref=Link)
+* [GenApex Enterprise Evolution launch press release](https://sway.cloud.microsoft/FGh98RqbYSEoCuxr?authoringPlay=true&publish)
 
 ## Podcasts
 * [GenApex Podcast - Describes the importance of water treatment and the use of AI in its operations]()
