@@ -1,0 +1,63 @@
+# GenApex Services Data File
+# Place this file in _data/services.yml
+
+main:
+  - id: enterprise-risk
+    title: Enterprise Risk Management for Government
+    icon: fa-shield-alt
+    description: "Many public sector organizations approach risk reactively or in isolated silos. GenApex helps establish enterprise-wide risk management frameworks that provide leadership with transparent, quantified visibility into organizational vulnerabilities. Our approach enables informed decisions about risk appetite, allowing communities to balance service levels, costs, and acceptable exposure."
+
+  - id: resource-utilization
+    title: Resource Utilization and Work Management
+    icon: fa-users-cog
+    description: "Can your organization demonstrate that public resources are being deployed effectively? GenApex helps governments move beyond anecdotal assessments to establish measurable frameworks for workforce productivity and resource allocation. Our approach provides factual evidence of efficiency while identifying opportunities to redirect effort toward higher-value activities."
+
+  - id: investment-planning
+    title: Investment Planning and Capital Programming
+    icon: fa-chart-line
+    description: "Effective capital investment requires more than maintaining assets to the end of their expected useful life. GenApex helps organizations establish rigorous investment planning processes that incorporate lifecycle events, performance data, and cost analysis to determine optimal refurbishment and replacement triggers."
+
+  - id: operational-resilience
+    title: Operational Resilience for Utilities
+    icon: fa-water
+    description: "Modern utilities require proactive monitoring and response capabilities to prevent service disruptions before they impact communities. GenApex helps water, wastewater, and other utilities establish operational frameworks that detect emerging issues, enable rapid response, and build organizational cultures focused on prevention rather than reaction."
+
+  - id: ai-powered
+    title: AI-Powered Solutions
+    icon: fa-robot
+    description: "Artificial intelligence offers significant opportunities for public sector efficiency and service improvement—when applied thoughtfully. GenApex helps organizations identify high-value AI applications, implement solutions with appropriate governance, and build internal capabilities for sustainable adoption."
+
+  - id: strategic-advisory
+    title: Strategic Advisory Services
+    icon: fa-compass
+    description: "Complex decisions require objective analysis and experienced perspective. GenApex provides strategic advisory services that help leadership teams navigate technology investments, organizational changes, and policy development with confidence."
+
+  - id: strategic
+    title: Strategic Business Planning
+    icon: fa-bullseye
+    description: "We help public sector organizations develop comprehensive strategic plans that align organizational capacity with community outcomes. Our approach incorporates realistic assessments of current capabilities, identifies gaps, and creates actionable roadmaps with clear accountabilities."
+
+  - id: digital
+    title: Digital Transformation
+    icon: fa-digital-tachograph
+    description: "Our digital transformation services help public organizations leverage technology to improve operational efficiency, enhance service delivery, and create better citizen experiences. We focus on practical implementations that deliver measurable value rather than technology for its own sake."
+
+  - id: information
+    title: Information Management
+    icon: fa-database
+    description: "Quality data and effective information management underpin every aspect of modern government operations. GenApex helps organizations establish data governance frameworks, integration strategies, and analytics capabilities that support evidence-based decision-making."
+
+  - id: process
+    title: Process Improvement
+    icon: fa-cogs
+    description: "Inefficient processes consume resources and frustrate both staff and citizens. GenApex helps organizations identify waste, streamline workflows, and implement continuous improvement frameworks that deliver sustained operational gains."
+
+  - id: products
+    title: Digital Products
+    icon: fa-laptop-code
+    description: "GenApex develops and implements digital solutions tailored to public sector needs—from citizen service portals to workflow management systems—designed for usability, accessibility, and integration with existing operations."
+
+  - id: urban
+    title: Urban and Infrastructure Planning
+    icon: fa-city
+    description: "Sustainable community development requires integrated planning across infrastructure, services, and growth management. GenApex supports municipalities with smart city initiatives, capital program development, and long-term infrastructure planning."
